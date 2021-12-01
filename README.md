@@ -1,6 +1,6 @@
 # Calculadora_TP
 
 Integrantes:
-Bastos Agustin Taborda DNI:\n 
+Bastos Agustin Taborda DNI: 
 Fernandez Lucas Ariel DNI: 41.853.019
-Romano Pablo Daniel DNI: 
+Romano Pablo Daniel DNI: 41.853.056
